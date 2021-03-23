@@ -1,0 +1,1 @@
+Namespace(batch_size=16, commitment_cost=0.25, embedding_dim=64, iterations=50000, lr=0.0008, model_checkpoint=None, n_embedding=256, n_res_block=2, n_res_hiddens=64, num_hiddens=128, sched=None)
